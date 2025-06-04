@@ -1,7 +1,7 @@
 # AVA.PacxPlugins.AddSolutionComponent
 
 # **Installazione**
-
+test
 Andare nel path
 
 C:\\Users**\\&lt;username&gt;\\**AppData\\Local\\Greg.Xrm.Command\\Plugins
