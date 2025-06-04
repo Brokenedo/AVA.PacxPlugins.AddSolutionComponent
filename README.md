@@ -1,5 +1,7 @@
 # AVA.PacxPlugins.AddSolutionComponent
 
+PlugIn **PACX**: https://github.com/neronotte/Greg.Xrm.Command
+
 # **Installazione**
 
 Andare nel path
