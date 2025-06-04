@@ -1,6 +1,6 @@
 # AVA.PacxPlugins.AddSolutionComponent
 
-PlugIn **PACX**: https://github.com/neronotte/Greg.Xrm.Command
+Plugin **PACX**: https://github.com/neronotte/Greg.Xrm.Command
 
 # **Installazione**
 
