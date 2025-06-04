@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "AVA.PacxPlugins.AddSolutionComponent": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "commandLineArgs": "addsolutioncomponent --componentType \"WebResource\" --componentName \"egl_/scripts/egl_cessationrequest_agency/egl_cessationrequest_agency.ribbon.js\" --solutionName \"test-bug\" --Plugin \"C:\\Users\\edoardo.mattaliano\\source\\repos\\AVA.PacxPlugins.AddSolutionComponent\\AVA.PacxPlugins.AddSolutionComponent\\bin\\Debug\\net8.0\\AVA.PacxPlugins.AddSolutionComponent.dll\"",
+      "workingDirectory": "pacx"
+    }
+  }
+}
